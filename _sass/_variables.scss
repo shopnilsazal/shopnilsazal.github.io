@@ -1,0 +1,50 @@
+// Page
+// --------------------------------------------------
+
+$feature-image-height: 350px; // min 150px recommended
+$front-page-feature-image-height: 350px; // min 150px recommended
+
+// Typography
+// --------------------------------------------------
+
+$base-font: 'Inconsolata', Calibri, Arial, sans-serif;
+$heading-font: $base-font;
+$caption-font: $base-font;
+$code-font: 'Fira Mono';
+$alt-font: serif;
+
+$doc-font-size: 16;
+$doc-line-height: 26;
+
+
+// set-up the body font-size / line-height
+body {
+	margin-top: 0px + $doc-line-height;
+	font-size: 0px + $doc-font-size;	
+}
+
+
+// Colors
+// --------------------------------------------------
+$base-color				 : rgba(#112233, 0.9);
+$body-color      		 : #F0F1F5;
+$text-color      		 : rgba(#112233,0.8);
+$comp-color 	 		   : complement(#222); 
+$border-color    		 : lighten($base-color,60);
+$white           		 : #fff;
+$black           		 : #000;
+$link-color 		     : #FC575E;
+
+$primary			       : #112233;
+$success			       : #5cb85c;
+$warning			       : #dd8338;
+$danger				       : #C64537;
+$info				       : #308cbc;
+
+
+// Screen Size
+// --------------------------------------------------
+
+$small               : "only screen and (min-width: 30em)";
+$medium              : "only screen and (min-width: 48em)";
+$large               : "only screen and (min-width: 62.5em)";
