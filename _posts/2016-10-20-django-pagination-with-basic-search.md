@@ -2,7 +2,7 @@
 layout: post
 title: Django Pagiantion with Basic Search
 description: "Number based pagination with basic search in django."
-modified: 2016-06-01T15:27:45-04:00
+modified: 2016-10-20
 tags: [django, pagination, search]
 image:
   feature: blog-banner-1.jpg
