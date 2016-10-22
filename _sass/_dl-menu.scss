@@ -12,14 +12,14 @@
 	perspective-origin: 50% 200%;
 	@media #{$medium} {
 		position: fixed;
-		max-width: 175px;
+		max-width: 200px;
 		top: 25px;
 		left: 25px;
 	}
 	button {
 		top: 0;
 		left: 0;
-		background: $base-color;
+		background: $black;
 		border: none;
 		width: 48px;
 		height: 45px;
@@ -44,12 +44,12 @@
 		position: absolute;
 		width: 68%;
 		height: 5px;
-		background: $white;
+		background: $body-color;
 		top: 10px;
 		left: 16%;
 		box-shadow: 
-			0 10px 0 $white, 
-			0 20px 0 $white;
+			0 10px 0 $body-color,
+			0 20px 0 $body-color;
 	}
 	button.dl-active {
 		display: none;
@@ -126,7 +126,6 @@
 		width: 100%;
 		max-width: 400px;
 		overflow-y: auto;
-		max-height: 600px;
 		opacity: 0;
 		pointer-events: none;
 		box-shadow: 0 12px 24px rgba($black,0.4);
@@ -139,7 +138,6 @@
 		z-index: inherit;
 		@media #{$medium} {
 			@include border-radius(3px,3px,3px,3px);
-			max-height: 650px;
 		}
 	}
 	.dl-menu.dl-menu-toggle {
@@ -360,7 +358,7 @@ All this is done for any sub-level being entered.
 .dl-menuwrapper button:hover,
 .dl-menuwrapper button.dl-active,
 .dl-menuwrapper ul {
-	background: $base-color;
+	background: darken($base-color, 10);
 }
 // Fix for IE
 .dl-menu li {

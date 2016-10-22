@@ -1,32 +1,49 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Me
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: blog-banner-2.jpg
 comments: false
-modified: 2016-02-01
+modified: 2016-10-20
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+I am a problem solver, fast learner, team guy, explorer, self motivated web artisan.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+I am addicted to code and music. I love learning new things and watching movies. I am a *nix fan and work on OS X. I am passionate about Artificial Intelligence and Machine Learning.
 
-## HPSTR Features:
+I started my journey with competitive programming. I participated "ACM ICPC Dhaka Regional 2012" contest. I still solve problems on [HackerRank](https://www.hackerrank.com/shopnilsazal) in my leisure.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+## Skill Set:
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+I am a **full stack developer**. As a developer, I have over 2 years of experiences. I enjoy taking on new challenges, and constantly strives to learn new skills. These are my primary skills.
 
-[^1]: Example: *domain.com/category-name/post-title*
+### Python
+
+* Django
+* Django Rest Framework
+* Flask
+* Scrapy
+* BeautifulSoup
+
+### PHP
+
+* WordPress Theme
+* WordPress Plugin
+
+### Front End
+
+I am not a front end ninja. But I do know more than enough `HTML`, `CSS` and `JavaScript` to build decent Web UI/UX. I am learning `ES2015`. I also know basics of `VueJS` and `ReactJS`.
+
+## Current Job:
+
+###  Web Developer at [ThemeXpert](https://www.themexpert.com/)
+
+I am working here as a FullStack Developer. I work mainly on WordPress platform. I develop premium themes for themeforest along with plugins for theme functionality.
+
+## Learning Queue:
+
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+
+

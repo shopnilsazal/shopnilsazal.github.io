@@ -1,4 +1,4 @@
-title:            Rafiqul's Blog
+title:            Rafiqul Hasan
 description:      Hello, this is my blog description.
 disqus_shortname: 
 reading_time:     true
@@ -11,14 +11,14 @@ url:
 owner:
   name:           Rafiqul Hasan
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  bio:            "I am a problem solver, fast learner, team guy, explorer, self motivated web artisan."
+  email:          shopnilsazal@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  twitter:        shopnilsazal
+  facebook:       shopnilsazal
+  github:         shopnilsazal
+  stackexchange:  http://stackoverflow.com/users/5630003/rafiqul-hasan?tab=profile
+  linkedin:       rafiqulhasan
   instagram:      
   flickr:         
   tumblr:         
