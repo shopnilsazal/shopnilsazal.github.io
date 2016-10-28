@@ -4,12 +4,12 @@ title: About Me
 image:
   feature: blog-banner-2.jpg
 comments: false
-modified: 2016-10-20
+modified: 2016-10-29
 ---
 
 I am a problem solver, fast learner, team guy, explorer, self motivated web artisan.
 
-I am addicted to code and music. I love learning new things and watching movies. I am a *nix fan and work on OS X. I am passionate about Artificial Intelligence and Machine Learning.
+I am addicted to code and music. I enjoy taking on new challenges, and constantly strives to learn new skills. I am a *nix fan and work on OS X. I am passionate about Artificial Intelligence and Machine Learning.
 
 I started my journey with competitive programming. I participated "ACM ICPC Dhaka Regional 2012" contest. I still solve problems on [HackerRank](https://www.hackerrank.com/shopnilsazal) in my leisure.
 
@@ -34,16 +34,9 @@ I am a **full stack developer**. As a developer, I have over 2 years of experien
 
 I am not a front end ninja. But I do know more than enough `HTML`, `CSS` and `JavaScript` to build decent Web UI/UX. I am learning `ES2015`. I also know basics of `VueJS` and `ReactJS`.
 
-## Current Job:
-
-###  Web Developer at [ThemeXpert](https://www.themexpert.com/)
-
-I am working here as a FullStack Developer. I work mainly on WordPress platform. I develop premium themes for themeforest along with plugins for theme functionality.
 
 ## Learning Queue:
 
 * Data Science
 * Machine Learning
 * Artificial Intelligence
-
-
