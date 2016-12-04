@@ -24,6 +24,7 @@ I am a **full stack developer**. As a developer, I have over 2 years of experien
 * Flask
 * Scrapy
 * BeautifulSoup
+* Celery
 
 ### PHP
 
