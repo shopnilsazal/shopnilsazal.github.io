@@ -39,4 +39,3 @@ I am not a front end ninja. But I do know more than enough `HTML`, `CSS` and `Ja
 
 * Data Science
 * Machine Learning
-* Artificial Intelligence
