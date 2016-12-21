@@ -173,9 +173,9 @@ body {
 .entry-meta {
 	@include font-rem(13);
 	text-transform: uppercase;
-	color: lighten($link-color, 3);
+	color: $meta-color;
 	a {
-		color: lighten($link-color, 3);
+		color: $meta-color;
 	}
 	.vcard {
 		&:before {
