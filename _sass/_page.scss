@@ -15,7 +15,7 @@ body {
 	}
 }
 .entry-content {
-	@include font-size(17);
+	@include font-size(18);
 	line-height: 1.7;
 	// Dotted line underlines for links
 	p > a,
@@ -48,6 +48,7 @@ body {
 		@media #{$large} {
 			@include font-rem(60);
 		}
+		
 	}
 	h2 {
 		margin: 0;
@@ -444,6 +445,9 @@ header .entry-meta {
 	}
 	p > a,
 	li > a {
+		&:after {
+			display: none;
+		}
 		border-bottom-width: 0;
 	}
 }

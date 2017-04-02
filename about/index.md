@@ -11,7 +11,7 @@ I am a creative problem solver, fast learner, team guy, explorer and self motiva
 
 I am addicted to code and music. I enjoy taking on new challenges, and constantly strives to learn new skills. I am a *nix fan and work on macOS. I am passionate about Artificial Intelligence and Machine Learning.
 
-I started my journey with competitive programming. I participated "ACM ICPC Dhaka Regional 2012" contest. I still solve problems on [HackerRank](https://www.hackerrank.com/shopnilsazal) in my leisure.
+I started my journey with competitive programming. I participated "ACM ICPC Dhaka Regional 2012" contest. I still solve problems on [HackerRank](https://www.hackerrank.com/shopnilsazal) in my leisure. I love to learn and teach. I am also a **Mentor** at [Lets Learn Coding for Dropouts](https://www.facebook.com/LLCforDropouts/).
 
 ## Skill Set:
 
