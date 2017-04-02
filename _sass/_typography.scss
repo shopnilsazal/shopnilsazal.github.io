@@ -144,15 +144,16 @@ tt, code, kbd, samp, pre {
 p,
 li { 
 	code {
-		@include font-rem(13);
-		line-height: 1.5;
+		@include font-rem(16);
+		line-height: 1.6;
 		white-space: nowrap;
 		margin: 0 2px;
-		padding: 0 5px;
+		padding: 2px 7px;
 		border: 1px solid lighten($black, 90);
-		background-color: lighten($black, 95);
+		background-color: #f6f9f9;
 		@include rounded(3px);
 		font-style: normal;
+		font-weight: 700;
 	}
 }
 pre {
