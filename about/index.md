@@ -26,15 +26,14 @@ I am a **full stack developer**. As a developer, I have about 3 years of experie
 * BeautifulSoup
 * Celery
 
+### JavaScript
+* ES2015
+* ReactJS
+
 ### PHP
 
 * WordPress Theme
 * WordPress Plugin
-
-### Front End
-
-I am not a front end ninja. But I do know more than enough `HTML`, `CSS` and `JavaScript` to build decent Web UI/UX. I also know basics of `ReactJS`.
-
 
 ## Learning Queue:
 
